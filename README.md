@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/lucivaldo-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucivaldo-dev&account_public=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucivaldo-dev&account_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucivaldo-dev&theme=codeSTACKr&hide_border=false&&layout=compact"/>
   </a>
 </div>
