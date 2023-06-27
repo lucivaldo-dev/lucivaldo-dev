@@ -3,7 +3,7 @@
 <div>
   <h1 align="center">
     Oi, Tudo bem? Eu sou o 
-    <a color="#EC5E2D"href="https://www.linkedin.com/in/lucivaldo-viana/" target="_blank" rel="external">Lucivaldo.</a>
+    <a href="https://www.linkedin.com/in/lucivaldo-viana/" color="#EC5E2D">Lucivaldo.</a>
   </h1>
   <p align="center">Atualmente sou estudante de Full Stack na Digital College </>
 </div>
