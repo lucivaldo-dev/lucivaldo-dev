@@ -36,4 +36,11 @@
   ![Snake animation](https://github.com/lucivaldo-dev/lucivaldo-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucivaldo-dev}/count.svg" /></p> 
+<br>
+  </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE4E0E&height=120&section=footer"/>****
