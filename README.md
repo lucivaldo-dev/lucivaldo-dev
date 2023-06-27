@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/lucivaldo-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucivaldo-dev&account_public&private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucivaldo-dev&show_icons=true&count_private=true&hide_border=true&title_color=EC5E2D&icon_color=EC5E2D&text_color=c9d1d9&bg_color=0d1117" alt="Lucivaldo Viana Silva github stats" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucivaldo-dev&theme=codeSTACKr&hide_border=false&&layout=compact"/>
   </a>
 </div>
