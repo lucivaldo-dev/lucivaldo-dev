@@ -5,7 +5,7 @@
     Oi, Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/lucivaldo-viana/" color="#EC5E2D">Lucivaldo.</a>
   </h1>
-  <p align="center">Estou em transição de carreira, já faz 2 anos em que estudo programação onde comecei pelo o Front-end e Back-end em uma escola de habilidades digitais, nesse período aprendi muita coisa, consegui um bom network recebendo muita ajuda.Atualmente estou na faculdade onde venho me preparando, aprendendo uma área mais ampla com muitas possibilidades e aperfeiçoando tam-bém minhas skills.Estou sempre disposto a aprender e me adaptar ao novo. </>
+  <p align="center">Estou em transição de carreira, já faz 2 anos que estudo programação onde comecei pelo o Front-end e Back-end em uma escola de habilidades digitais, nesse período aprendi muita coisa, consegui um bom network recebendo muita ajuda.Atualmente estou na faculdade onde venho me preparando, aprendendo uma área mais ampla com muitas possibilidades e aperfeiçoando também minhas skills.Estou sempre disposto a aprender e me adaptar ao novo.. </>
 </div>
 
 <div align="center">
