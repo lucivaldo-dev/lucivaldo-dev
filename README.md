@@ -35,4 +35,4 @@
   <a href="mailto:lucivaldo.developer1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lucti.aprendiz.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E84726&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E84726&height=120&section=footer"/>
