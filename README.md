@@ -25,12 +25,6 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  
 </div><br>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/lucivaldo-dev/lucivaldo-dev/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
   <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucivaldo-dev}/count.svg" /></p> 
