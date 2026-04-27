@@ -5,7 +5,7 @@
     Oi, Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/lucivaldo-viana/" color="#EC5E2D">Lucivaldo.</a>
   </h1>
-  <p align="center">Estou em transição de carreira onde comecei pelo o Front-end e Back-end em uma escola de habilidades digitais, nesse período aprendi muita coisa, consegui um bom networking recebendo muita ajuda.Atualmente estou na faculdade onde venho me preparando, aprendendo uma área mais ampla com muitas possibilidades aperfeiçoando e aprendendo ainda mais minhas skills.Estou sempre disposto a aprender e me adaptar ao novo. </>
+  <p align="center">Estou em transição de carreira, tendo iniciado meus estudos em desenvolvimento front-end e back-end em uma escola de habilidades digitais. Nesse período, aprendi muitas coisas e construí um bom networking, recebendo bastante ajuda. Recentemente, me formei em ADS e estou buscando me especializar em desenvolvimento web e mobile para aprimorar minhas hard skills. Tenho facilidade para aprender, trabalhar em equipe e me adaptar a novos desafios.  </>
 </div>
 
 <div align="center">
